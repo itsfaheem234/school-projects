@@ -62,6 +62,10 @@ start the application and follow the instructions on screen. select an answer fo
 4) add answer explanations and hints
 5) add performance analytics
 
+## project from school
+refer the file ```CS Project``` in the 11th grade folder,  for my project from school
+
+
 ## author
 **faheem**
 
